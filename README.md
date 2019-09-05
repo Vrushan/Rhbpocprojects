@@ -13,16 +13,22 @@ About services
 Merchantmanagment:
 
 Get information about system health, configurations, etc.
-http://localhost:8081/env
-http://localhost:8081/health
-http://localhost:8081/info
+http://localhost:8081/env,
+
+http://localhost:8081/health,
+
+http://localhost:8081/info,
+
 http://localhost:8081/metrics
 
 Billermanagment:
 Get information about system health, configurations, etc.
-http://localhost:8082/env
-http://localhost:8082/health
-http://localhost:8082/info
+http://localhost:8082/env,
+
+http://localhost:8082/health,
+
+http://localhost:8082/info,
+
 http://localhost:8082/metrics
 
 Communication:Sunchronous communication between merchant and Biller services.
