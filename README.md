@@ -35,5 +35,6 @@ Communication:Sunchronous communication between merchant and Biller services.
 
 Authservice:
 
-Merchantmanagment service exposed with Oauth and SSO
+Merchantmanagment service exposed with Oauth and SSO,
+
 Billermanagment service exposed with Openid connector(Google)
